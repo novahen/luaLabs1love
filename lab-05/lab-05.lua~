@@ -30,7 +30,7 @@ function ui.btn_new:on_clicked(...)
 }
 
 lab_05_2nd_wnd:run()
-lab_05_2nd_wnd:close()
+lab_05_2nd_wnd:destroy()
 end
 
 ui.wnd.title = 'lab-05'

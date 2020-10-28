@@ -29,7 +29,7 @@ c3=gtk.TreeViewColumn{title='Image', {rdr_pix,{pixbuf=3}}}
 ui.list:append_column(c1)
 ui.list:append_column(c2)
 ui.list:append_column(c3)
-ui.wnd.title='lab-04_Zhukov'
+ui.wnd.title='lab-04_Tsvetkov'
 ui.wnd.on_destroy=gtk.main_quit
 ui.wnd:show_all()
 gtk.main()

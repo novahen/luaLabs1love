@@ -33,8 +33,8 @@ lab_05_2nd_wnd:run()
 lab_05_2nd_wnd:destroy()
 end
 
-ui.wnd.title = 'lab-05'
-ui.wnd2.title = 'lab-05-wnd2'
+ui.wnd.title = 'lab-05_Tsvetkov'
+ui.wnd2.title = 'lab-05-wnd2_Tsvetkov'
 ui.wnd.on_destroy = gtk.main_quit
 ui.wnd:show_all()
 

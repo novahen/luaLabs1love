@@ -33,7 +33,7 @@ end
 function ui.enter_btn:on_clicked(...)
 titikaka()
 end
-ui.wnd.title='lab-03-2_Tsvetkov'
+ui.wnd.title='lab-03-2_Zhukov'
 ui.wnd.on_destroy=gtk.main_quit
 ui.wnd:show_all()
 gtk.main()

@@ -34,7 +34,7 @@ end
 function ui.chk_z:on_clicked(...)
 titikaka()
 end
-ui.wnd.title='lab-03_Tsvetkov'
+ui.wnd.title='lab-03_Zhukov'
 ui.wnd.on_destroy=gtk.main_quit
 ui.wnd:show_all()
 gtk.main()
